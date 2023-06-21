@@ -49,12 +49,6 @@ O projeto será divido em duas partes: `Front-end` e `Back-end`
 - [ ] O admin irá visualizar e controlar o status de cada pedido, por um campo do tipo select. Os pedidos irão aparecer em uma tabela ao clicar em Pedidos;
 - [ ] Já que o projeto está em dark mode, você pode aplicar a versão light mode;
 
-## 🎯 Incrementos adicionais propostos por mim
-- [x] Criar página de profile para usuário com as opções de trocar dados de nome, email, foto de avatar e senha. Além de poder acessar informações (histórico de pedidos, pratos favoritos e fale conosco);
-- [x] Criar página de profile para adm com opções de trocar dados da conta (nome, email, foto de avatar e senha). Além de poder acessar página de criação de prato, edição de prato e deletar pratos;
-- [x] Criar uma página de não autorizado (error 401) para que usuários não possam acessar páginas da administração (add, edit e delete dish)
-- [x] Validações de email válido mais complexo, validações de password (tamanho da senha) e se todos os campos estão preenchidos
-
 ### 📘 Ferramentas/Bibliotecas utilizadas
   - Biblioteca para criação de interfaces: `reactJS`
   - Setup para criar o projeto no React: `ViteJS`
