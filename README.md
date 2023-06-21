@@ -9,7 +9,7 @@
 <br>
 
 Back-end: https://github.com/victorcamposr/FoodExplorer_BackEnd<br>
-Site funcionando: https://foodexplorer182.netlify.app/
+Site funcionando: https://food-explorer-9137.netlify.app/
 
 # FOOD EXPLORER
 Aplicação de um cardápio digital para um restaurante fictício, conhecido como FoodExplorer.<br>
@@ -78,8 +78,8 @@ O projeto será divido em duas partes: `Front-end` e `Back-end`
 
 ```bash
 # Perfil do adminstrador
-usuário: adm@email.com
-senha: 123456
+$ email: adming@gmail.com.br
+$ password: admin
 ```
 
 ## ✔️ Autores
