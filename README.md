@@ -8,7 +8,7 @@
 </div>
 <br>
 
-Back-end: https://github.com/victorcamposr/FoodExplorer_BackEnd<br>
+Back-end: https://github.com/victorcamposr/backend-FoodExplorer-main<br>
 Site funcionando: https://food-explorer-9137.netlify.app/
 
 # FOOD EXPLORER
